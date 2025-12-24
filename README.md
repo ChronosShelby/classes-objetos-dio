@@ -61,6 +61,10 @@ o monge level 15 atacou usando artes marciais
 o ninja level 18 atacou usando shuriken
 ```
 
+## 📄 Código do Desafio
+
+- <a href="https://github.com/ChronosShelby/classes-objetos-dio/blob/main/src/Classes%20e%20Objetos.js"> Clique aqui para ver o código</a>
+
 ## ✍️ Autor
 
 **Igor Gabriel Antunes**  
